@@ -1,0 +1,133 @@
+.headerr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 39px;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-bottom: 34px;
+}
+.logo {
+  height: 41px;
+}
+.h_buttons1 {
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 500;
+  border: none;
+  background: none;
+  height: 39px;
+}
+.button1 {
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 700;
+  margin-right: 37px;
+}
+.spaces {
+  margin-right: 39px;
+}
+.buttn1 {
+  box-shadow: -4px 5px 4px 0px rgba(0, 0, 0, 0.25);
+  background: rgb(255, 255, 255);
+  width: 185px;
+  height: 50px;
+  border: none;
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 19px;
+  font-weight: 600;
+}
+.buttn2 {
+  width: 185px;
+  height: 50px;
+  box-shadow: -4px 5px 4px 0px rgba(0, 0, 0, 0.25);
+  background: rgb(94, 58, 238);
+  border: none;
+  color: rgb(255, 255, 255);
+  font-family: Poppins;
+  font-size: 19px;
+  font-weight: 600;
+}
+.box3 {
+  background: rgb(15, 18, 33);
+  margin-bottom: 61px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 75px;
+  justify-content: space-between;
+}
+.hr1 {
+  width: 205px;
+  height: 27px;
+  background: rgb(94, 58, 238);
+  margin-top: 93px;
+  border: none;
+}
+.text_1 {
+  color: rgb(255, 255, 255);
+  font-family: Poppins;
+  font-size: 52px;
+  font-weight: 700;
+  height: 74px;
+  margin-bottom: 13px;
+}
+.text_2 {
+  color: rgb(255, 255, 255);
+  font-family: Poppins;
+  font-size: 31px;
+  font-weight: 500;
+  height: 180px;
+}
+.link {
+  color: rgb(94, 58, 238);
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: 700;
+}
+.skillz {
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+}
+.skillz1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+}
+.labels {
+  height: 30.48px;
+  color: rgb(255, 255, 255);
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.subm {
+  margin-top: 31px;
+  width: 583.96px;
+  height: 53.7px;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+}
+.f_text {
+  color: rgb(105, 105, 105);
+  font-family: Poppins;
+  font-size: 23px;
+  font-weight: 500;
+  width: 184px;
+  height: 35px;
+  margin-top: 42px;
+  margin-bottom: 59px;
+}

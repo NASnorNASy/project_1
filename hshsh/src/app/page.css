@@ -1,0 +1,141 @@
+.body {
+  background-color: rgb(255, 255, 255);
+  padding: 0;
+  margin: 0;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.box1 {
+  background-color: rgb(240, 240, 245);
+  padding: 80px;
+  margin-left: 75px;
+  margin-right: 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 101px;
+}
+.text1 {
+  font-family: Poppins;
+  font-size: 49px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  margin-bottom: 7px;
+}
+.text1p {
+  color: rgb(94, 58, 238);
+}
+.text2 {
+  color: rgb(105, 105, 105);
+  font-family: Poppins;
+  font-size: 29px;
+  font-weight: 600;
+  margin-bottom: 52px;
+}
+.rowj {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.box2 {
+  margin-left: 75px;
+  margin-right: 75px;
+  border-top: 3px solid rgb(240, 240, 245);
+  border-bottom: 3px solid rgb(240, 240, 245);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-bottom: 38px;
+  margin-bottom: 185px;
+}
+.boxies {
+  width: 188px;
+  height: 103px;
+}
+.blacks {
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 49px;
+  font-weight: 700;
+  height: 57px;
+  text-align: center;
+}
+.greys {
+  color: rgb(191, 184, 184);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  height: 57px;
+  text-align: center;
+}
+.picc2 {
+  transform: rotate(4.86deg);
+}
+.skills {
+  color: rgb(94, 58, 238);
+  font-family: Poppins;
+  font-size: 49px;
+  font-weight: 800;
+  height: 74px;
+  margin-left: 79px;
+  margin-left: 38px;
+}
+.box4 {
+  margin-left: 182px;
+  margin-bottom: 189px;
+  margin-right: 196px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.box5 {
+  background: rgb(94, 58, 238);
+  padding-top: 37px;
+  padding-left: 52px;
+  padding-bottom: 66px;
+  padding-right: 44px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
+.inputs {
+  width: 583.96px;
+  height: 53.7px;
+  background: rgba(255, 255, 255, 0.5);
+  border: none;
+}
+.textar {
+  width: 583.96px;
+  height: 141.52px;
+  background: rgba(255, 255, 255, 0.5);
+  border: none;
+}
+.w_text {
+  color: rgb(255, 255, 255);
+  font-family: Poppins;
+  font-size: 49px;
+  font-weight: 800;
+  height: 74px;
+  margin-bottom: 21px;
+  margin-left: 27px;
+}
+.sw_text {
+  color: rgb(255, 255, 255);
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 500;
+  margin-left: 27px;
+}
+.footer {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
